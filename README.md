@@ -3,8 +3,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=auqid&label=Profile%20views&color=0e75b6&style=flat" alt="auqid" /> </p>
- <img src="http://gifs.tastefullyoffensive.com/post/127026664737
-"/>
+ <img src="https://github.com/auqid/auqid/blob/main/giphy.gif"/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=auqid" alt="auqid" /></a> </p>
 
 - 🔭 I’m currently working on [A E-commerce Site](https://github.com/auqid/azshop)
