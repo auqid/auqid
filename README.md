@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Auqid Irfan</h1>
 <h3 align="center">A passionate Fullstack developer from Kashmir.</h3>
-![cat](https://github.com/auqid/auqid/blob/main/giphy.gif)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=auqid&label=Profile%20views&color=0e75b6&style=flat" alt="auqid" /> </p>
 
