@@ -6,7 +6,7 @@
  <img src="https://github.com/auqid/auqid/blob/main/giphy.gif"/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=auqid" alt="auqid" /></a> </p>
 
-- 🔭 I’m currently working on [A E-commerce Site](https://github.com/auqid/azshop)
+- 🔭 I’m currently working on [A Z-Ecommerce Site](https://github.com/auqid/azshop)
 
 - 🌱 I’m currently learning **Web Development.**
 
