@@ -1,4 +1,4 @@
-<div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center' }}>
+<div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', margin:'0 auto' }}>
   Auqid Irfan. <br />
   Fullstack developer from Kashmir.
   <br />
