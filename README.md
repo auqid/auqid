@@ -1,5 +1,5 @@
 
   Auqid Irfan. <br />
-  Fullstack developer from Kashmir.
+  Fullstack developer from Kashmir..
   
   
