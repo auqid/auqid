@@ -8,7 +8,7 @@ I'm a software developer with a passion for building web applications and explor
 - **Frameworks:** React, Node.js
 - **Tools:** Git, Docker, Kubernetes
 - **Databases:** MySQL, MongoDB
-##Portfolio
+## Portfolio
 - **Website:** [auqid](https://www.auqid.tech)
 
 ## Projects
