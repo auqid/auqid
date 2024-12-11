@@ -12,9 +12,9 @@ I'm a software developer with a passion for building web applications and explor
 - **Website:** [auqid](https://www.auqid.tech)
 
 ## Projects
-- **[Project 1](https://github.com/auqid/project1):** A brief description of your project.
-- **[Project 2](https://github.com/auqid/project2):** A brief description of your project.
-- **[Project 3](https://github.com/auqid/project3):** A brief description of your project.
+- **[Project 1](https://azshop.onrender.com/):** A brief description of your project.
+- **[Project 2](https://github.com/auqid/Mouse-Control-Using-Hand-Gestures):** A brief description of your project.
+- **[Project 3](https://github.com/auqid/expense-tracker):** A brief description of your project.
 
 ## Contact Me
 - **Email:** auqidirfan100@gmail.com
