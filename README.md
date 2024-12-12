@@ -9,7 +9,7 @@ I'm a software developer with a passion for building web applications and explor
 - **Tools:** Git, Docker, Kubernetes
 - **Databases:** MySQL, MongoDB
 ## Portfolio
-- **Website:** [auqid](https://www.auqid.tech)
+- **Website:** [auqid.tech](https://www.auqid.tech)
 
 ## Projects
 - **[Project 1](https://azshop.onrender.com/):** E-commerce Website.
