@@ -1,4 +1,4 @@
-# Hi there, I'm auqid 👋
+# Hi there, I'm Auqid 👋
 
 ## About Me
 I'm a software developer with a passion for building web applications and exploring new technologies. I enjoy coding, learning, and sharing my knowledge with the community.
