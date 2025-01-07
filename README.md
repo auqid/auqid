@@ -19,7 +19,9 @@ I'm a software developer with a passion for building web applications and explor
 ## Contact Me
 - **Email:** auqidirfan100@gmail.com
 - **LinkedIn:** [auqid](https://www.linkedin.com/in/auqid)
-
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@psych/30-nites-of-code)  
+  ![@psych #30NitesOfCode](https://www.codedex.io/api/petStatus?user=psych)
 
 Thanks for visiting my profile!
   
